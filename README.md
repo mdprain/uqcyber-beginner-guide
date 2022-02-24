@@ -35,13 +35,13 @@ Once you have Linux set up and running, you're ready to start hacking!
 ### Learning
 
 - **TryHackMe *(Easy)*** - https://tryhackme.com/ - The first resource that I recommend to people starting out, especially if you're not familiar with all computer terminology. There are many great paths to choose from, like "Pre-Security" and "Complete Beginner" which will guide you through the basics of nearly everything to do with computer security. I cannot recommend this one enough!
-- **Hack The Box Academy *(Easy/Medium)*** - https://academy.hackthebox.com/ - This is another great one for beginners, with a heap of free "Fundamental" modules to go through. There is a little less hand-holding than TryHackMe, but this can be beneficial to get into the mindset of "trying harder" to solve problems and challenges.
+- **Hack The Box Academy *(Easy/Medium)*** - https://academy.hackthebox.com/ - This is another great one for beginners, with a heap of free "Fundamental" modules to go through. There is a little less hand-holding than TryHackMe, but this can be beneficial to get into the mindset of "trying harder" when solving problems and challenges.
 - **OverTheWire: Wargames *(Easy/Medium)*** - https://overthewire.org/wargames/ - If you're struggling to get a hang of all the Linux commands, the "Bandit" wargame challenges are a great way to learn all the key ones. There is no hand-holding in this one, so be warned!
 
 ### Practice
 
 - **Hack The Box *(Medium/Hard)*** - https://www.hackthebox.com/ - The most popular website for practicing your pen-testing skills. No walkthroughs or guides are allowed for the boxes (until they are officially "retired"), so it's best to go through TryHackMe or their own academy website before attempting these. The new "Starting Point" boxes are the best way to start. There is also a "Challenges" section if you want to practice your CTF skills!
-- **PicoCTF *(Easy/Medium)*** - https://play.picoctf.org/ - If CTFs are more your thing, this is the best beginner website for a whole bunch of great challenges that range in difficulty from "extremely easy" to "challenging".
+- **PicoCTF *(Easy/Medium)*** - https://play.picoctf.org/ - If CTFs are more your thing, this is the best beginner website for a whole bunch of great challenges that range in difficulty from "extremely easy" to "quite challenging".
 
 ### YouTube
 
