@@ -48,10 +48,11 @@ Once you have Linux set up and running, you're ready to start hacking!
 - **John Hammond** - https://www.youtube.com/c/JohnHammond010 - Great channel on everything cybersecurity and hacking.
 - **IppSec** - https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA - Another great channel that's focused on Hack The Box retired machine walkthroughs.
 
-### CTF Checklists
+### CTF Resources
 
-Sometimes, you're going to run out of ideas on what to do when trying to find a flag in a CTF. These following links are great checklists to go through whenever you're in that situation!
+Sometimes, you're going to run out of ideas on what to do when trying to find a flag in a CTF. These following links are great resources to go through whenever you're in that situation!
 
+- **CTF 101** - https://ctf101.org/ - A great overall introduction into the concept of CTFs, as well as the techniques and tools you might want to use.
 - **CTF Katana** - https://github.com/JohnHammond/ctf-katana - This is John Hammond's most comprehensive checklist that covers every category you'll find in a CTF.
 - **CTF checklist for beginners** - https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/ - Another checklist which is suited more for beginners, but still very helpful.
 
