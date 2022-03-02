@@ -50,7 +50,7 @@ Once you have Linux set up and running, you're ready to start hacking!
 
 ### CTF Checklists
 
-Sometimes, you're going to run out of ideas on what to do when trying to find a flag in a CTF. These following links are great "checklists" to go through whenever you're in that situation!
+Sometimes, you're going to run out of ideas on what to do when trying to find a flag in a CTF. These following links are great checklists to go through whenever you're in that situation!
 
 - **CTF Katana** - https://github.com/JohnHammond/ctf-katana - This is John Hammond's most comprehensive checklist that covers every category you'll find in a CTF.
 - **CTF checklist for beginners** - https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/ - Another checklist which is suited more for beginners, but still very helpful.
